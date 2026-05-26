@@ -30,13 +30,3 @@ Base (Canvas) Resolution: whatever resolution your monitor is
 Output (Canvas) Resolution: what you want the output to be. some people downscale from 4k/1440p to 1080p
 
 Common FPS Values: 60
-
---------------------------------------
-
-# Davinci Render Settings
-
-Format: MP4
-Codec: AV1, or H.265 if you don't have AV1
-Frame rate: 60
-Quality: Restrict to: 10000kbps
-Encoding profile: Main. Main10 if recording in HDR
