@@ -26,7 +26,7 @@
 
 ### Video settings:
 
-Base (Canvas) Resolution: whatever resolution your monitor is
+Base (Canvas) Resolution: whatever resolution your monitor is  
 Output (Canvas) Resolution: what you want the output to be. some people downscale from 4k/1440p to 1080p
 
 Common FPS Values: 60
