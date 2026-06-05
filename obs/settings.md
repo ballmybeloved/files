@@ -12,7 +12,7 @@
 
 **Everything default except:**
 
-* Video encoder: AV1 (if you don't have it, choose H.265/HEVC)
+* Video encoder: AV1 (if you don't have AV1, choose H.265/HEVC)
 * Rate control: Variable Bitrate with Target
 
 ---
