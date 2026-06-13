@@ -67,7 +67,7 @@
             "link-to-sidechain": -80.01,
             "lpf-frequency": 20000.0,
             "lpf-mode": "Off",
-            "makeup": 15.0,
+            "makeup": 0.0,
             "output-gain": 0.0,
             "reduction": -24.0,
             "release": 100.0,
