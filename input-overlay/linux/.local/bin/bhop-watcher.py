@@ -1,1 +1,0 @@
-/home/ball/.local/bin/bhop-watcher.py

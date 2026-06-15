@@ -83,20 +83,20 @@
             "z_level": 1
         },
         {
-            "type": 1,
+            "code": 107,
+            "id": "space0",
+            "mapping": [
+                1301,
+                4,
+                422,
+                128
+            ],
             "pos": [
                 0,
                 266
             ],
-            "id": "keyboard button5",
-            "z_level": "0",
-            "mapping": [
-                1301,
-                1,
-                422,
-                128
-            ],
-            "code": 87
+            "type": 1,
+            "z_level": 1
         }
     ],
     "flags": 0,

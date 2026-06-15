@@ -4,9 +4,9 @@
 #HotIf WinActive("ahk_exe Overwatch.exe")
 
 ~WheelDown:: {
-    SendEvent "{F11 down}"
+    SendEvent "{F24 down}"
     Sleep 100
-    SendEvent "{F11 up}"
+    SendEvent "{F24 up}"
 }
 
 #HotIf
